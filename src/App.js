@@ -136,7 +136,7 @@ function App() {
                 Estudante autoditada em programação. 
                 Atualmente, eu sou estudante na Universidade de São Paulo(USP), no curso de Engenharia de Materiais e Manufatura. 
                 Eu trabalho como desenvolvedor Front-end e Back-end. Algumas das tecnologias são: HTML, CSS, Python, Javascript, Typescript, 
-                Node.js, Next.js, React.js, MySQL, MongoDB, Google Clound e outras ferramentas de desenvolvimento.
+                Node.js, Next.js, React.js, MySQL, MongoDB, Google Cloud e outras ferramentas de desenvolvimento.
               </p>
               
               <button class="w-full md:w-auto relative mt-6 inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white dark:text-white focus:ring-4 focus:ring-green-200 dark:focus:ring-green-800 hover:shadow-lg hover:shadow-teal-500/50 hover:dark:shadow-lg hover:dark:shadow-teal-800/80">
