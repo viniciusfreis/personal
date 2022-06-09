@@ -133,7 +133,7 @@ function App() {
             </div>
             <div className="w-full h-420 flex flex-col items-center justify-center ">
               <p className="text-lg text-textBase text-center">
-                Estudante autoditada em programação. 
+                Olá, eu sou o Vinicius! Estudante autoditada em programação. 
                 Atualmente, eu sou estudante na Universidade de São Paulo(USP), no curso de Engenharia de Materiais e Manufatura. 
                 Eu trabalho como desenvolvedor Front-end e Back-end. Algumas das tecnologias são: HTML, CSS, Python, Javascript, Typescript, 
                 Node.js, Next.js, React.js, MySQL, MongoDB, Google Cloud e outras ferramentas de desenvolvimento.
